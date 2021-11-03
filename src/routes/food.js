@@ -2,7 +2,7 @@
 
 const express = require('express');
 
-const foodCollection  = require('../models/index');
+const {foodCollection}  = require('../models/index');
 
 const foodRouter = express.Router();
 
