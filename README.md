@@ -11,7 +11,7 @@
 ## Deployment Test :
 - Heroku : https://essam-api-server.herokuapp.com/
 - Backend: https://github.com/essamomar93/api-server
-- Pull request: https://github.com/essamomar93/api-server/pull/1
+- Pull request: https://github.com/essamomar93/api-server/pull/2
 
 ## Languages :
 - javascript
